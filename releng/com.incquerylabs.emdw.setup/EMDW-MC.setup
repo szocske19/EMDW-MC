@@ -216,7 +216,7 @@
           name="de.itemis.xtext.antlr.sdk.feature.group"/>
       <repositoryList>
         <repository
-            url="http://sourceforge.net/projects/xsemantics/files/updates/releases/1.9"/>
+            url="https://dl.bintray.com/lorenzobettini/xsemantics/updates/1.9"/>
         <repository
             url="http://download.eclipse.org/modeling/tmf/xtext/updates/composite/releases"/>
         <repository
